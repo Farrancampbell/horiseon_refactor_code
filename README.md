@@ -8,4 +8,4 @@ We were commissioned by Horiseon Social Solution Services, Inc, to optimize
 and refactor some of the implemented code. Additionlly, we were commissioned to 
 bring the website in compliance with accepted Accessibility standards 
 
-![image](/Users/farrancampbell/gt/homework/horiseon_refactory_code/assets/images/horiseon_screenshot.png)
+![alt text](/Users/farrancampbell/gt/homework/horiseon_refactory_code/assets/images/horiseon_screenshot.png)
